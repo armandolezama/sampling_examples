@@ -1,0 +1,10 @@
+https://www.digitalocean.com/community/tutorials/bootstrap-sampling-in-python
+
+https://insidelearningmachines.com/implement-the-bootstrap-method-in-python/
+
+
+El MAE (Mean Absolute Error) y el RMSE (Root Mean Squared Error) son dos medidas de evaluación de errores utilizadas comúnmente en la evaluación de modelos de predicción o regresión.
+El MAE es una medida de la magnitud promedio de los errores en una predicción. Se calcula como la media de los valores absolutos de las diferencias entre las predicciones y los valores observados. Un MAE bajo indica que el modelo está produciendo predicciones precisas.
+El RMSE, por otro lado, es una medida de la magnitud promedio de los errores al cuadrado en una predicción. Se calcula como la raíz cuadrada de la media de las diferencias al cuadrado entre las predicciones y los valores observados. Un RMSE bajo también indica que el modelo está produciendo predicciones precisas, pero penaliza más los errores grandes que el MAE.
+https://rpubs.com/stefens07/MAE_RMSE#:~:text=El%20MAE%20es%20%C3%BAtil%20cuando,penaliza%20m%C3%A1s%20los%20errores%20grandes.
+
